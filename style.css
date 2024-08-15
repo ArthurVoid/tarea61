@@ -1,0 +1,24 @@
+
+body {
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+    font-family:Lucida handritting;
+    font-weight: 300;
+}
+#aplicaciones{
+    background-color:rgb(116, 190, 240);
+}
+#juegos{
+    background-color:rgb(82, 22, 223);
+}
+#Chatbot{
+    background-color:rgb(46, 10, 129);
+}
+.line{
+    height:6px;   
+    background-color:rgb(134, 128, 128);
+    width:200px;
+    margin:8px auto;
+}
